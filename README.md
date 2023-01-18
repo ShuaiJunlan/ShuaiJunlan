@@ -8,3 +8,5 @@
 ShuaiJunlan/ShuaiJunlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Anurag's GitHub stats](https://readme-stats.clckblog.space/api?username=ShuaiJunlan)
